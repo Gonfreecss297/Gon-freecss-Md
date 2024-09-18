@@ -1,13 +1,18 @@
 <p>Merci infiniment à  la team sasaki grâce à vous mon projets vois le jour <strong>S-TEN Arthur SASAKi Akashi Sasaki</strong></p>
 
 <a><img src='https://i.imgur.com/Y7jRceU.gif'/></a>
+***dans la vie il faut toujours pour suivre ses objectifs***
 <a><img src='https://i.imgur.com/CeHQo01.gif'/></a>
+
+***je ne serai jamais un fardeau pour quelqu'un***
 
 ## 𝐆𝐎𝐍 𝐅𝐑𝐄𝐄𝐂𝐒𝐒
 | [![Gonfreecss297](https://i.imgur.com/12sM5Og.jpeg)](https://github.com/Gonfreecss297)|
 |----|
    𝑮𝑶𝑵 𝑭𝑹𝑬𝑬𝑪𝑺𝑺
-<a><img src='https://i.imgur.com/12sM5Og.gif'/></a>
+
+   
+<a><img src='https://i.imgur.com/kPlEOk0.gif'/></a>
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐆𝐎𝐍 𝐅𝐑𝐄𝐄𝐂𝐒𝐒-blue.svg?style=for-the-badge&logo=github"></a>
