@@ -22,7 +22,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     const date = moment.tz("africa/nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n";
+    let menuMsg = "  ╩═══ * Gon-freecss-Md * ╩═══\n\n";
     /*menuMsg+=`
     
     
@@ -116,7 +116,7 @@ var tt=[]
 
     var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
     // var listCom =listeCommande()
-    let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
+    let msg= "  ╩═══ * Gon-freecss * ╩═══\n\n"
 
 
 //const listeCommande= async ()=> {
