@@ -55,8 +55,8 @@ france({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254757835036" },
-      { nom: "᚛FranceKing᚜", numero: "254750948696" },
+      { nom: "Gon-freecss", numero: "242067274660" },
+      { nom: "᚛Gon-freecss᚜", numero: "242067274660" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
