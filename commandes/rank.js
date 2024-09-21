@@ -211,7 +211,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking ┗━━━┓
+┏━━━┛ Gon-freecss-Md Ranking ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -252,7 +252,7 @@ france( {
     const {ms , arg, repondre,auteurMessage,nomAuteurMessage, msgRepondu , auteurMsgRepondu , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ FLASH-MD-top-rang ┗━━┓\n\n`
+       let msg = `┏━━┛ Gon-freecss-Md-top-rang ┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
